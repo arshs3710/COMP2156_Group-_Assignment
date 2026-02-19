@@ -1,3 +1,4 @@
 COMP 2156 DevOps course teaches Git, CI/CD, GitHub Actions...
 DevOps tools include Git, Docker, CI pipelines, and automation.
 GitHub Actions is used for CI to run builds and tests automatically.
+CI/CD helps detect issues early and saves time in development.
