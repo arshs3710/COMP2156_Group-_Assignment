@@ -1,0 +1,4 @@
+DevOps improves the SDLC by automating build, test, and deployment...
+DevOps reduces errors by using automation and continuous testing.
+In SDLC, DevOps helps with faster releases and better collaboration.
+DevOps is important because it connects developers and operations teams.
