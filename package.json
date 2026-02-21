@@ -2,7 +2,7 @@
   "name": "comp2156",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://arshs3710.github.io/comp2156",
+  "homepage": "https://arshs3710.github.io/arshs3710comp2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
